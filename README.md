@@ -95,3 +95,11 @@ $ ./go-ouroboros-network ... local-tx-submission ...
 ```
 $ docker-compose down --volumes
 ```
+
+## Contributing
+
+We welcome bug reports and pull requests. Check out the list of [open issues](https://github.com/cloudstruct/go-ouroboros-network/issues) and [project board](https://github.com/orgs/cloudstruct/projects/1/views/1) if you're not sure where to start.
+
+You can join us in [our Discord](https://discord.gg/cJ7tsdyDcq) for discussion around development of our opensource projects.
+
+Delegating to our [staking pool (CSCS)](https://adapools.org/pool/27b1b4470c84db78ce1ffbfff77bb068abb4e47d43cb6009caaa3523) helps fund development.
